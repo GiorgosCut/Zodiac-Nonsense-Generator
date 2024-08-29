@@ -14,6 +14,8 @@ A small JavaScript application which generates random nonsensical outputs about 
 
 -> Run the command prompt (Windows) or console (Mac)
 
+-> Using `cd` navigate to the directory where you stored `app.js`
+
 -> Type `node app.js`
 
 ## Requirments
