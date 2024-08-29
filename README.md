@@ -1,4 +1,4 @@
-# Zodiac_Nonsense_Generator
+# Zodiac Nonsense Generator!!
 
 A small JavaScript application which generates random nonsensical outputs about Zodiac signs
 
@@ -18,7 +18,7 @@ A small JavaScript application which generates random nonsensical outputs about 
 
 -> Type `node app.js`
 
-## Requirments
+## Requirements
 
 In order to open run this program your computer will need to have installed the Node.js
 runtime environment, available here [Node.js](https://nodejs.org/en).
